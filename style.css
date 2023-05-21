@@ -114,7 +114,7 @@ nav {
   color: aqua;
   font-size: 0.93rem;
 }
-.memory h1 {
+.memory h {
   color: rgb(203, 223, 223);
   font-size: 2.2rem;
 }
@@ -138,7 +138,7 @@ nav {
 .memory p {
   font-size: 1.2rem;
   color: #bebebf;
-  line-height: 28px;
+  line-height: 26px;
 }
 aside {
   grid-area: profile;
@@ -166,7 +166,7 @@ aside img:nth-child(2) {
     linear-gradient(260deg, #3e3e88, #0d0dc5, #45265f) border-box;
 }
 aside p {
-  font-size: 2.37rem;
+  font-size: 2.36rem;
   display: flex;
   flex-direction: column;
   align-items: center;
