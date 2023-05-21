@@ -8,8 +8,8 @@ Esse é um projeto web Responsivo de uma capsula do tempo para exibir memórias 
 Esse projeto foi desenvolvido durante o NLW da Rockseat com as seguintes tecnologias:
 
 - HTML
--CSS
--Git e GitHub
+- CSS
+- Git e GitHub
 
 ## 🏷️ Layout
 Você pode vizualizar o layout do projeto através 
